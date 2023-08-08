@@ -1,18 +1,3 @@
---[[
-  __  __ __  __ ___                _           _         _____                 _ 
- |  \/  |  \/  |__ \      /\      | |         (_)       |  __ \               | |
- | \  / | \  / |  ) |    /  \   __| |_ __ ___  _ _ __   | |__) |_ _ _ __   ___| |
- | |\/| | |\/| | / /    / /\ \ / _` | '_ ` _ \| | '_ \  |  ___/ _` | '_ \ / _ \ |
- | |  | | |  | |/ /_   / ____ \ (_| | | | | | | | | | | | |  | (_| | | | |  __/ |
- |_|  |_|_|  |_|____| /_/    \_\__,_|_| |_| |_|_|_| |_| |_|   \__,_|_| |_|\___|_|
-
-MM2 Admin Panel is a fork of the popular Vynixu's MM2 script, and a few Generic MM2 Scripts.
-MM2 Admin Panel brings a more compact, smaller design, inspired by Owl Hub,
-MM2 Admin Script brings Axon based DLL Compatibility, meaning exploits like
-Skisploit and Acrylix are able to utilize MM2 Admin Panel without any issues.
-
-Thank you to my friends Zyrex and Vegie for helping me with Kill Murderer
-]]--
 
 local MM2AdminPanel = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
